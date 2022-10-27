@@ -6,6 +6,7 @@
       <list>
         <option value="$PROJECT_DIR$/Generics/pom.xml" />
         <option value="$PROJECT_DIR$/Enum/pom.xml" />
+        <option value="$PROJECT_DIR$/Lambda/pom.xml" />
       </list>
     </option>
   </component>
