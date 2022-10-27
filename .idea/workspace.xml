@@ -4,14 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11c44ee2-0972-4d78-999d-439115221565" name="Changes" comment="DAy 43 Generic Tasks Completed">
-      <change afterPath="$PROJECT_DIR$/Lambda/src/main/java/org/cydeo/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lambda/src/main/java/org/cydeo/Color.java" afterDir="false" />
+    <list default="true" id="11c44ee2-0972-4d78-999d-439115221565" name="Changes" comment="DAy 43 Lambda Started">
+      <change afterPath="$PROJECT_DIR$/Lambda/src/main/java/org/cydeo/AppleGreenColorPredicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lambda/src/main/java/org/cydeo/AppleHeavyPredicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lambda/src/main/java/org/cydeo/ApplePredicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lambda/src/main/java/org/cydeo/AppleTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda/src/main/java/org/cydeo/Apple.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/src/main/java/org/cydeo/Apple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda/src/main/java/org/cydeo/ArraySorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/src/main/java/org/cydeo/ArraySorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda/src/main/java/org/cydeo/Sorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/src/main/java/org/cydeo/Sorting.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,9 +23,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Interface" />
         <option value="Class" />
-        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -40,24 +42,24 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-19&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/resul/IdeaProjects/Java_Version_Updates&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "openjdk-19",
+    "last_opened_file_path": "/Users/resul/IdeaProjects/Java_Version_Updates",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.annotationProcessors"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -68,7 +70,8 @@
       <updated>1666770629030</updated>
       <workItem from="1666770630148" duration="5962000" />
       <workItem from="1666831627332" duration="5411000" />
-      <workItem from="1666863143782" duration="636000" />
+      <workItem from="1666863143782" duration="1347000" />
+      <workItem from="1666866679921" duration="5299000" />
     </task>
     <task id="LOCAL-00001" summary="DAy 43 Generic Completed">
       <created>1666770829856</created>
@@ -91,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666833638952</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="DAy 43 Lambda Started">
+      <created>1666863875561</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666863875561</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,7 +122,8 @@
     <MESSAGE value="DAy 43 Generic Completed" />
     <MESSAGE value="DAy 43 Enum Completed" />
     <MESSAGE value="DAy 43 Generic Tasks Completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="DAy 43 Generic Tasks Completed" />
+    <MESSAGE value="DAy 43 Lambda Started" />
+    <option name="LAST_COMMIT_MESSAGE" value="DAy 43 Lambda Started" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
