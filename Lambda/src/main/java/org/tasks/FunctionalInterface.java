@@ -55,6 +55,11 @@ public class FunctionalInterface {
         BiFunction<Integer,Integer,Integer> biFunction = (i, j) -> i+j ;
         System.out.println(biFunction.apply(4,6));
 
+        //****************SUPPLIER****************//
+        System.out.println("****************SUPPLIER****************");
+        Supplier<String> supplier = () -> "Math.random()";
+        System.out.println(supplier.get());
+
 
 
 

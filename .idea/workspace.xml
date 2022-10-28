@@ -4,20 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11c44ee2-0972-4d78-999d-439115221565" name="Changes" comment="DAy 43 Lambda Completed">
-      <change afterPath="$PROJECT_DIR$/Lambda/src/main/java/org/tasks/CheckMember.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lambda/src/main/java/org/tasks/FunctionalInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lambda/src/main/java/org/tasks/Gender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lambda/src/main/java/org/tasks/MemberTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lambda/src/main/java/org/tasks/Orange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lambda/src/main/java/org/tasks/OrangeFormatter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lambda/src/main/java/org/tasks/OrangeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lambda/src/main/java/org/tasks/Person.java" afterDir="false" />
+    <list default="true" id="11c44ee2-0972-4d78-999d-439115221565" name="Changes" comment="DAy 44 Lambda Task Completed">
+      <change afterPath="$PROJECT_DIR$/Lambda/src/main/java/org/tasks/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lambda/src/main/java/org/tasks/UserTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lambda/src/main/java/org/cydeo/AppleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/src/main/java/org/cydeo/AppleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lambda/src/main/java/org/cydeo/ArraySorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/src/main/java/org/cydeo/ArraySorting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lambda/target/classes/org/cydeo/ArraySorting.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/target/classes/org/cydeo/ArraySorting.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lambda/target/classes/org/cydeo/Sorting.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/target/classes/org/cydeo/Sorting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda/src/main/java/org/tasks/FunctionalInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/src/main/java/org/tasks/FunctionalInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda/target/classes/org/cydeo/AppleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/target/classes/org/cydeo/AppleTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +68,7 @@
       <workItem from="1666831627332" duration="5411000" />
       <workItem from="1666863143782" duration="1347000" />
       <workItem from="1666866679921" duration="14816000" />
-      <workItem from="1666940608579" duration="1333000" />
+      <workItem from="1666940608579" duration="4934000" />
     </task>
     <task id="LOCAL-00001" summary="DAy 43 Generic Completed">
       <created>1666770829856</created>
@@ -113,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666886339278</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="DAy 44 Lambda Task Completed">
+      <created>1666942183295</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666942183295</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,7 +135,8 @@
     <MESSAGE value="DAy 43 Generic Tasks Completed" />
     <MESSAGE value="DAy 43 Lambda Started" />
     <MESSAGE value="DAy 43 Lambda Completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="DAy 43 Lambda Completed" />
+    <MESSAGE value="DAy 44 Lambda Task Completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="DAy 44 Lambda Task Completed" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
