@@ -21,3 +21,4 @@ public class ArraySorting {
         sorting.sort();
     }
 }
+

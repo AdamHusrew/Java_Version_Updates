@@ -12,6 +12,8 @@ public class AppleTest {
         inventory.add(new Apple(300,Color.RED));
         inventory.add(new Apple(150,Color.GREEN));
 
+
+
         System.out.println(filterApples(inventory, new AppleGreenColorPredicate()));
         System.out.println(filterApples(inventory, new AppleHeavyPredicate()));
 
