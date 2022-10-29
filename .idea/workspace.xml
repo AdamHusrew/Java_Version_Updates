@@ -4,12 +4,60 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11c44ee2-0972-4d78-999d-439115221565" name="Changes" comment="DAy 44 Lambda Task Completed">
-      <change afterPath="$PROJECT_DIR$/Lambda/src/main/java/org/tasks/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lambda/src/main/java/org/tasks/UserTest.java" afterDir="false" />
+    <list default="true" id="11c44ee2-0972-4d78-999d-439115221565" name="Changes" comment="DAy 45 Lambda Continue Completed">
+      <change afterPath="$PROJECT_DIR$/ComparatorInterface/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComparatorInterface/src/main/java/com/cydeo/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComparatorInterface/src/main/java/com/cydeo/AppleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComparatorInterface/src/main/java/com/cydeo/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComparatorInterface/src/main/java/com/cydeo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComparatorInterface/src/main/java/com/cydeo/MyComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DoubleColonOperator/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DoubleColonOperator/src/main/java/com/cydeo/Calculate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DoubleColonOperator/src/main/java/com/cydeo/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DoubleColonOperator/src/main/java/com/cydeo/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DoubleColonOperator/src/main/java/com/cydeo/CarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DoubleColonOperator/src/main/java/com/cydeo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DoubleColonOperator/src/main/java/com/cydeo/MyCLass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stream/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stream/src/main/java/com/cydeo/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stream/src/main/java/com/cydeo/CreateStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stream/src/main/java/com/cydeo/StreamOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stream/src/main/java/com/tasks/CharString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stream/src/main/java/com/tasks/Dish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stream/src/main/java/com/tasks/DishData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stream/src/main/java/com/tasks/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stream/src/main/java/com/tasks/EmployeeData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stream/src/main/java/com/tasks/EmployeeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stream/src/main/java/com/tasks/Type.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lambda/src/main/java/org/tasks/FunctionalInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/src/main/java/org/tasks/FunctionalInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lambda/target/classes/org/cydeo/AppleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/target/classes/org/cydeo/AppleTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enum/src/main/java/org/cydeo/Currency.java" beforeDir="false" afterPath="$PROJECT_DIR$/Enum/src/main/java/com/cydeo/Currency.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enum/src/main/java/org/cydeo/CurrencyDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Enum/src/main/java/com/cydeo/CurrencyDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enum/src/main/java/org/cydeo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Enum/src/main/java/com/cydeo/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enum/src/main/java/org/cydeo/Operation.java" beforeDir="false" afterPath="$PROJECT_DIR$/Enum/src/main/java/com/cydeo/Operation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enum/src/main/java/org/cydeo/ProjectStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/Enum/src/main/java/com/cydeo/ProjectStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda/src/main/java/org/cydeo/Apple.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/src/main/java/com/cydeo/Apple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda/src/main/java/org/cydeo/AppleGreenColorPredicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/src/main/java/com/cydeo/AppleGreenColorPredicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda/src/main/java/org/cydeo/AppleHeavyPredicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/src/main/java/com/cydeo/AppleHeavyPredicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda/src/main/java/org/cydeo/ApplePredicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/src/main/java/com/cydeo/ApplePredicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda/src/main/java/org/cydeo/AppleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/src/main/java/com/cydeo/AppleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda/src/main/java/org/cydeo/ArraySorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/src/main/java/com/cydeo/ArraySorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda/src/main/java/org/cydeo/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/src/main/java/com/cydeo/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda/src/main/java/org/cydeo/Color.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/src/main/java/com/cydeo/Color.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda/src/main/java/org/cydeo/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/src/main/java/com/cydeo/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda/src/main/java/org/cydeo/Sorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/src/main/java/com/cydeo/Sorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda/src/main/java/org/tasks/CheckMember.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/src/main/java/com/tasks/CheckMember.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda/src/main/java/org/tasks/FunctionalInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/src/main/java/com/tasks/FunctionalInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda/src/main/java/org/tasks/Gender.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/src/main/java/com/tasks/Gender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda/src/main/java/org/tasks/MemberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/src/main/java/com/tasks/MemberTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda/src/main/java/org/tasks/Orange.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/src/main/java/com/tasks/Orange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda/src/main/java/org/tasks/OrangeFormatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/src/main/java/com/tasks/OrangeFormatter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda/src/main/java/org/tasks/OrangeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/src/main/java/com/tasks/OrangeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda/src/main/java/org/tasks/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/src/main/java/com/tasks/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda/src/main/java/org/tasks/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/src/main/java/com/tasks/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda/src/main/java/org/tasks/UserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/src/main/java/com/tasks/UserTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +116,7 @@
       <workItem from="1666831627332" duration="5411000" />
       <workItem from="1666863143782" duration="1347000" />
       <workItem from="1666866679921" duration="14816000" />
-      <workItem from="1666940608579" duration="4934000" />
+      <workItem from="1666940608579" duration="21241000" />
     </task>
     <task id="LOCAL-00001" summary="DAy 43 Generic Completed">
       <created>1666770829856</created>
@@ -112,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666942183295</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="DAy 45 Lambda Continue Completed">
+      <created>1666988785756</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1666988785756</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,7 +191,8 @@
     <MESSAGE value="DAy 43 Lambda Started" />
     <MESSAGE value="DAy 43 Lambda Completed" />
     <MESSAGE value="DAy 44 Lambda Task Completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="DAy 44 Lambda Task Completed" />
+    <MESSAGE value="DAy 45 Lambda Continue Completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="DAy 45 Lambda Continue Completed" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

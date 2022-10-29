@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/ComparatorInterface/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ComparatorInterface/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DoubleColonOperator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DoubleColonOperator/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Enum/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Enum/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Generics/Lambda/src/main/java" charset="UTF-8" />
@@ -9,5 +13,7 @@
     <file url="file://$PROJECT_DIR$/Generics/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Lambda/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Lambda/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Stream/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Stream/src/main/resources" charset="UTF-8" />
   </component>
 </project>

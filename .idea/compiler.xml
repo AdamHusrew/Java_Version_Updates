@@ -11,7 +11,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Enum" />
+        <module name="Stream" />
+        <module name="DoubleColonOperator" />
         <module name="Lambda" />
+        <module name="ComparatorInterface" />
         <module name="Generics" />
       </profile>
     </annotationProcessing>

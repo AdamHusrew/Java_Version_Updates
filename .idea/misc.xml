@@ -7,6 +7,9 @@
         <option value="$PROJECT_DIR$/Generics/pom.xml" />
         <option value="$PROJECT_DIR$/Enum/pom.xml" />
         <option value="$PROJECT_DIR$/Lambda/pom.xml" />
+        <option value="$PROJECT_DIR$/DoubleColonOperator/pom.xml" />
+        <option value="$PROJECT_DIR$/ComparatorInterface/pom.xml" />
+        <option value="$PROJECT_DIR$/Stream/pom.xml" />
       </list>
     </option>
   </component>
