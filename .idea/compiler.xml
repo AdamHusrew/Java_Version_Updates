@@ -11,8 +11,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Enum" />
+        <module name="Optional-BigDecimal" />
         <module name="Stream" />
         <module name="DoubleColonOperator" />
+        <module name="New_Version_Updates" />
         <module name="Lambda" />
         <module name="ComparatorInterface" />
         <module name="Generics" />

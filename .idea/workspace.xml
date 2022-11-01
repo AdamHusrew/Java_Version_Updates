@@ -4,15 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11c44ee2-0972-4d78-999d-439115221565" name="Changes" comment="DAy 47 Stream Operations Completed">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stream/src/main/java/com/tasks/CollectorsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stream/src/main/java/com/tasks/DishTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stream/src/main/java/com/tasks/FindMatching.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stream/src/main/java/com/tasks/Reducing.java" afterDir="false" />
+    <list default="true" id="11c44ee2-0972-4d78-999d-439115221565" name="Changes" comment="Day 48 Stream Terminal Operations and Collectors Done">
+      <change afterPath="$PROJECT_DIR$/New_Version_Updates/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New_Version_Updates/src/main/java/com/cydeo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New_Version_Updates/src/main/java/com/cydeo/java9/CompactStringDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New_Version_Updates/src/main/java/com/cydeo/java9/FactoryMethodDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New_Version_Updates/src/main/java/com/cydeo/java9/ModuleDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New_Version_Updates/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Optional-BigDecimal/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Optional-BigDecimal/src/main/java/com/cydeo/BigDecimalDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Optional-BigDecimal/src/main/java/com/cydeo/OptionalDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Optional-BigDecimal/target/classes/com/cydeo/OptionalDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stream/src/main/java/com/tasks/DishData.java" beforeDir="false" afterPath="$PROJECT_DIR$/Stream/src/main/java/com/tasks/DishData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stream/target/classes/com/tasks/DishData.class" beforeDir="false" afterPath="$PROJECT_DIR$/Stream/target/classes/com/tasks/DishData.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +31,7 @@
         <option value="Enum" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="module-info" />
       </list>
     </option>
   </component>
@@ -34,6 +41,13 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="2GfDDuwiGKkjqBZ7ZTnI59FqPti" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -41,27 +55,28 @@
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
-    <option name="showExcludedFiles" value="false" />
+    <option name="flattenModules" value="true" />
+    <option name="flattenPackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "openjdk-19",
-    "last_opened_file_path": "/Users/resul/IdeaProjects/Java_Version_Updates",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.projectsettings.compiler.annotationProcessors"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-19&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/resul/IdeaProjects/Java_Version_Updates&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.annotationProcessors&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -74,7 +89,9 @@
       <workItem from="1666831627332" duration="5411000" />
       <workItem from="1666863143782" duration="1347000" />
       <workItem from="1666866679921" duration="14816000" />
-      <workItem from="1666940608579" duration="35000000" />
+      <workItem from="1666940608579" duration="35113000" />
+      <workItem from="1667280192226" duration="4633000" />
+      <workItem from="1667298174495" duration="6001000" />
     </task>
     <task id="LOCAL-00001" summary="DAy 43 Generic Completed">
       <created>1666770829856</created>
@@ -132,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667068153325</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Day 48 Stream Terminal Operations and Collectors Done">
+      <created>1667202717290</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1667202717290</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,7 +182,8 @@
     <MESSAGE value="DAy 44 Lambda Task Completed" />
     <MESSAGE value="DAy 45 Lambda Continue Completed" />
     <MESSAGE value="DAy 47 Stream Operations Completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="DAy 47 Stream Operations Completed" />
+    <MESSAGE value="Day 48 Stream Terminal Operations and Collectors Done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 48 Stream Terminal Operations and Collectors Done" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
