@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <excludeFromCompile>
-      <directory url="file://$PROJECT_DIR$/Generics/src/main/resources/archetype-resources" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/M1-Generics/src/main/resources/archetype-resources" includeSubdirectories="true" />
     </excludeFromCompile>
     <annotationProcessing>
       <profile default="true" name="Default" enabled="true" />
@@ -10,14 +10,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Enum" />
-        <module name="Optional-BigDecimal" />
-        <module name="Stream" />
-        <module name="DoubleColonOperator" />
-        <module name="New_Version_Updates" />
-        <module name="Lambda" />
-        <module name="ComparatorInterface" />
-        <module name="Generics" />
+        <module name="M4-DoubleColonOperator" />
+        <module name="M6-Stream" />
+        <module name="M2-Enum" />
+        <module name="M1-Generics" />
+        <module name="M5-ComparatorInterface" />
+        <module name="M8-New_Version_Updates" />
+        <module name="M3-Lambda" />
+        <module name="M7-Optional-BigDecimal" />
       </profile>
     </annotationProcessing>
   </component>

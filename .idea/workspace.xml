@@ -4,22 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11c44ee2-0972-4d78-999d-439115221565" name="Changes" comment="Day 49 optional and Java Versions And Features Done">
-      <change afterPath="$PROJECT_DIR$/New_Version_Updates/src/main/java/com/cydeo/java10/CopyOfDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New_Version_Updates/src/main/java/com/cydeo/java10/LocalVariableTypeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New_Version_Updates/src/main/java/com/cydeo/java10/OrElseThrow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New_Version_Updates/src/main/java/com/cydeo/java11/PredicateNotDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New_Version_Updates/src/main/java/com/cydeo/java11/StringMethodDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New_Version_Updates/src/main/java/com/cydeo/java12/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New_Version_Updates/src/main/java/com/cydeo/java12/TeeingDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Optional-BigDecimal/src/main/java/com/cydeo/Polindrome.java" afterDir="false" />
+    <list default="true" id="11c44ee2-0972-4d78-999d-439115221565" name="Changes" comment="Day 50 New Java Version Updates">
+      <change afterPath="$PROJECT_DIR$/M8-New_Version_Updates/src/main/java/com/cydeo/java13/TextBlockDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M8-New_Version_Updates/src/main/java/com/cydeo/java14/RecordsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M8-New_Version_Updates/src/main/java/com/cydeo/java14/SwitchCaseDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M8-New_Version_Updates/src/main/java/com/cydeo/java14/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/New_Version_Updates/src/main/java/com/cydeo/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New_Version_Updates/src/main/java/com/cydeo/java9/CompactStringDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/New_Version_Updates/src/main/java/com/cydeo/java9/CompactStringDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/New_Version_Updates/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/New_Version_Updates/src/main/java/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/New_Version_Updates/target/classes/com/cydeo/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New_Version_Updates/target/classes/com/cydeo/java9/CompactStringDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/New_Version_Updates/target/classes/com/cydeo/java9/CompactStringDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Optional-BigDecimal/target/classes/com/cydeo/OptionalDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/Optional-BigDecimal/target/classes/com/cydeo/OptionalDemo.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +25,7 @@
         <option value="Interface" />
         <option value="module-info" />
         <option value="Class" />
+        <option value="Record" />
       </list>
     </option>
   </component>
@@ -77,6 +70,21 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.annotationProcessors&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="M3-Lambda" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="M3-Lambda" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -97,7 +105,7 @@
       <workItem from="1667759841008" duration="183000" />
       <workItem from="1668016613282" duration="4841000" />
       <workItem from="1668364483072" duration="26000" />
-      <workItem from="1668533658931" duration="8438000" />
+      <workItem from="1668533658931" duration="11234000" />
     </task>
     <task id="LOCAL-00001" summary="DAy 43 Generic Completed">
       <created>1666770829856</created>
@@ -169,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667314148535</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Day 50 New Java Version Updates">
+      <created>1668591357315</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1668591357315</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,7 +212,8 @@
     <MESSAGE value="DAy 47 Stream Operations Completed" />
     <MESSAGE value="Day 48 Stream Terminal Operations and Collectors Done" />
     <MESSAGE value="Day 49 optional and Java Versions And Features Done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 49 optional and Java Versions And Features Done" />
+    <MESSAGE value="Day 50 New Java Version Updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 50 New Java Version Updates" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
