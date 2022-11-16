@@ -4,21 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11c44ee2-0972-4d78-999d-439115221565" name="Changes" comment="Day 48 Stream Terminal Operations and Collectors Done">
-      <change afterPath="$PROJECT_DIR$/New_Version_Updates/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New_Version_Updates/src/main/java/com/cydeo/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New_Version_Updates/src/main/java/com/cydeo/java9/CompactStringDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New_Version_Updates/src/main/java/com/cydeo/java9/FactoryMethodDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New_Version_Updates/src/main/java/com/cydeo/java9/ModuleDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New_Version_Updates/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Optional-BigDecimal/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Optional-BigDecimal/src/main/java/com/cydeo/BigDecimalDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Optional-BigDecimal/src/main/java/com/cydeo/OptionalDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Optional-BigDecimal/target/classes/com/cydeo/OptionalDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="11c44ee2-0972-4d78-999d-439115221565" name="Changes" comment="Day 49 optional and Java Versions And Features Done">
+      <change afterPath="$PROJECT_DIR$/New_Version_Updates/src/main/java/com/cydeo/java10/CopyOfDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New_Version_Updates/src/main/java/com/cydeo/java10/LocalVariableTypeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New_Version_Updates/src/main/java/com/cydeo/java10/OrElseThrow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New_Version_Updates/src/main/java/com/cydeo/java11/PredicateNotDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New_Version_Updates/src/main/java/com/cydeo/java11/StringMethodDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New_Version_Updates/src/main/java/com/cydeo/java12/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New_Version_Updates/src/main/java/com/cydeo/java12/TeeingDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Optional-BigDecimal/src/main/java/com/cydeo/Polindrome.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/New_Version_Updates/src/main/java/com/cydeo/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New_Version_Updates/src/main/java/com/cydeo/java9/CompactStringDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/New_Version_Updates/src/main/java/com/cydeo/java9/CompactStringDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/New_Version_Updates/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/New_Version_Updates/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/New_Version_Updates/target/classes/com/cydeo/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New_Version_Updates/target/classes/com/cydeo/java9/CompactStringDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/New_Version_Updates/target/classes/com/cydeo/java9/CompactStringDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Optional-BigDecimal/target/classes/com/cydeo/OptionalDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/Optional-BigDecimal/target/classes/com/cydeo/OptionalDemo.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,8 +31,8 @@
       <list>
         <option value="Enum" />
         <option value="Interface" />
-        <option value="Class" />
         <option value="module-info" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -56,7 +57,6 @@
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
     <option name="flattenModules" value="true" />
-    <option name="flattenPackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
@@ -91,7 +91,13 @@
       <workItem from="1666866679921" duration="14816000" />
       <workItem from="1666940608579" duration="35113000" />
       <workItem from="1667280192226" duration="4633000" />
-      <workItem from="1667298174495" duration="6001000" />
+      <workItem from="1667298174495" duration="7838000" />
+      <workItem from="1667376069588" duration="5151000" />
+      <workItem from="1667737601143" duration="609000" />
+      <workItem from="1667759841008" duration="183000" />
+      <workItem from="1668016613282" duration="4841000" />
+      <workItem from="1668364483072" duration="26000" />
+      <workItem from="1668533658931" duration="8438000" />
     </task>
     <task id="LOCAL-00001" summary="DAy 43 Generic Completed">
       <created>1666770829856</created>
@@ -156,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667202717290</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Day 49 optional and Java Versions And Features Done">
+      <created>1667314148535</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1667314148535</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,7 +196,8 @@
     <MESSAGE value="DAy 45 Lambda Continue Completed" />
     <MESSAGE value="DAy 47 Stream Operations Completed" />
     <MESSAGE value="Day 48 Stream Terminal Operations and Collectors Done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 48 Stream Terminal Operations and Collectors Done" />
+    <MESSAGE value="Day 49 optional and Java Versions And Features Done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 49 optional and Java Versions And Features Done" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
